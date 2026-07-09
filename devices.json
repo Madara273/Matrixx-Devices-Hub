@@ -1,0 +1,18 @@
+{
+  "devices": [
+    {
+      "codename": "spes",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 11/NFC",
+      "maintainer_name": "Madara273",
+      "active": true
+    },
+    {
+      "codename": "lemonadep",
+      "vendor": "OnePlus",
+      "model": "OnePlus 9 Pro",
+      "maintainer_name": "Madara273",
+      "active": true
+    }
+  ]
+}

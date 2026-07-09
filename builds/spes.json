@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Madara273",
+            "telegram": "https://t.me/Madara_273c",
+            "github": "https://github.com/Madara273"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "sixteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Redmi Note 11/NFC",
+    "device_display_codename": "spes",
+    "version": "sixteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": "https://xdaforums.com/t/rom-14-0-spes-spesn-matrixxos-official-aosp.4661116/"
+}
+
